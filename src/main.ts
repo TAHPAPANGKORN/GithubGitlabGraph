@@ -13,7 +13,7 @@ async function main() {
   console.log("🚀 Starting Unified Contribution Graph Generator...");
 
   // 1. Initialize Services from Environment Variables
-  const githubToken = process.env.GITHUB_TOKEN || "";
+  const githubToken = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
   const gitlabToken = process.env.GITLAB_TOKEN || "";
   const gitlabUsername = process.env.GITLAB_USERNAME || "";
   const gitlabInstanceUrl = process.env.GITLAB_INSTANCE_URL || "https://gitlab.com";

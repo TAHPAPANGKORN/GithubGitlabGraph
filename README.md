@@ -15,7 +15,7 @@ A Node.js tool to generate a unified contribution graph (GitHub style) combining
 1. **Fork/Clone this repository.**
 2. **Configure GitHub Secrets**:
    Go to `Settings > Secrets and variables > Actions` and add:
-   - `GITHUB_TOKEN`: A Personal Access Token (Classic or Fine-grained) with `repo` and `read:user` scopes.
+   - `GH_TOKEN`: A Personal Access Token (Classic or Fine-grained) with `repo` and `read:user` scopes.
    - `GITLAB_TOKEN`: A GitLab Personal Access Token with `read_api` scope.
    - `GITLAB_USERNAME`: Your GitLab username.
    - `GITLAB_INSTANCE_URL`: (Optional) Your GitLab instance URL (defaults to `https://gitlab.com`).

@@ -27,7 +27,7 @@ jobs:
       - name: Generate Graph
         run: npx tsx src/main.ts
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
           GITLAB_USERNAME: ${{ secrets.GITLAB_USERNAME }}
           GITLAB_INSTANCE_URL: ${{ secrets.GITLAB_INSTANCE_URL }}
