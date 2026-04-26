@@ -1,1134 +1,1115 @@
-<svg width="676" height="139" viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg">
+<svg width="664" height="139" viewBox="0 0 664 139" xmlns="http://www.w3.org/2000/svg">
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
   </style>
   <rect width="100%" height="100%" fill="white" />
-  <text x="20" y="30" font-size="9" font-family="sans-serif" fill="#767676">Apr</text>
-<text x="32" y="30" font-size="9" font-family="sans-serif" fill="#767676">May</text>
-<text x="92" y="30" font-size="9" font-family="sans-serif" fill="#767676">Jun</text>
-<text x="140" y="30" font-size="9" font-family="sans-serif" fill="#767676">Jul</text>
-<text x="188" y="30" font-size="9" font-family="sans-serif" fill="#767676">Aug</text>
-<text x="248" y="30" font-size="9" font-family="sans-serif" fill="#767676">Sep</text>
-<text x="296" y="30" font-size="9" font-family="sans-serif" fill="#767676">Oct</text>
-<text x="344" y="30" font-size="9" font-family="sans-serif" fill="#767676">Nov</text>
-<text x="404" y="30" font-size="9" font-family="sans-serif" fill="#767676">Dec</text>
-<text x="452" y="30" font-size="9" font-family="sans-serif" fill="#767676">Jan</text>
-<text x="512" y="30" font-size="9" font-family="sans-serif" fill="#767676">Feb</text>
-<text x="560" y="30" font-size="9" font-family="sans-serif" fill="#767676">Mar</text>
-<text x="608" y="30" font-size="9" font-family="sans-serif" fill="#767676">Apr</text>
+  <text x="20" y="30" font-size="9" font-family="sans-serif" fill="#767676">May</text>
+<text x="80" y="30" font-size="9" font-family="sans-serif" fill="#767676">Jun</text>
+<text x="128" y="30" font-size="9" font-family="sans-serif" fill="#767676">Jul</text>
+<text x="176" y="30" font-size="9" font-family="sans-serif" fill="#767676">Aug</text>
+<text x="236" y="30" font-size="9" font-family="sans-serif" fill="#767676">Sep</text>
+<text x="284" y="30" font-size="9" font-family="sans-serif" fill="#767676">Oct</text>
+<text x="332" y="30" font-size="9" font-family="sans-serif" fill="#767676">Nov</text>
+<text x="392" y="30" font-size="9" font-family="sans-serif" fill="#767676">Dec</text>
+<text x="440" y="30" font-size="9" font-family="sans-serif" fill="#767676">Jan</text>
+<text x="500" y="30" font-size="9" font-family="sans-serif" fill="#767676">Feb</text>
+<text x="548" y="30" font-size="9" font-family="sans-serif" fill="#767676">Mar</text>
+<text x="596" y="30" font-size="9" font-family="sans-serif" fill="#767676">Apr</text>
 
-  <rect x="20" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2025-04-20: No contributions</title>
-    </rect>
-<rect x="20" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2025-04-21: 1 GitHub</title>
-    </rect>
-<rect x="20" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2">
-      <title>2025-04-22: 4 GitHub</title>
-    </rect>
-<rect x="20" y="71" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2025-04-23: 2 GitHub</title>
-    </rect>
-<rect x="20" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2025-04-24: 3 GitHub</title>
-    </rect>
-<rect x="20" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2">
-      <title>2025-04-25: 4 GitHub</title>
-    </rect>
-<rect x="20" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2025-04-26: No contributions</title>
-    </rect>
-<rect x="32" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+  <rect x="20" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-04-27: 1 GitHub</title>
     </rect>
-<rect x="32" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="20" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-04-28: No contributions</title>
     </rect>
-<rect x="32" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="20" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-04-29: No contributions</title>
     </rect>
-<rect x="32" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="20" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-04-30: No contributions</title>
     </rect>
-<rect x="32" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="20" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-01: No contributions</title>
     </rect>
-<rect x="32" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="20" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-02: No contributions</title>
     </rect>
-<rect x="32" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="20" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-05-03: 1 GitHub</title>
     </rect>
-<rect x="44" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="32" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-05-04: 4 GitHub</title>
     </rect>
-<rect x="44" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="32" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-05: No contributions</title>
     </rect>
-<rect x="44" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="32" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-05-06: 6 GitHub</title>
     </rect>
-<rect x="44" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="32" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-07: No contributions</title>
     </rect>
-<rect x="44" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="32" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-08: No contributions</title>
     </rect>
-<rect x="44" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="32" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-05-09: 2 GitHub</title>
     </rect>
-<rect x="44" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="32" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-10: No contributions</title>
     </rect>
-<rect x="56" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="44" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-05-11: 1 GitHub</title>
     </rect>
-<rect x="56" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="44" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-12: No contributions</title>
     </rect>
-<rect x="56" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="44" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-13: No contributions</title>
     </rect>
-<rect x="56" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="44" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-14: No contributions</title>
     </rect>
-<rect x="56" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="44" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-15: No contributions</title>
     </rect>
-<rect x="56" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="44" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-16: No contributions</title>
     </rect>
-<rect x="56" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="44" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-17: No contributions</title>
     </rect>
-<rect x="68" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-18: No contributions</title>
     </rect>
-<rect x="68" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-19: No contributions</title>
     </rect>
-<rect x="68" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-20: No contributions</title>
     </rect>
-<rect x="68" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-21: No contributions</title>
     </rect>
-<rect x="68" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-22: No contributions</title>
     </rect>
-<rect x="68" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-23: No contributions</title>
     </rect>
-<rect x="68" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="56" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-24: No contributions</title>
     </rect>
-<rect x="80" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-25: No contributions</title>
     </rect>
-<rect x="80" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-26: No contributions</title>
     </rect>
-<rect x="80" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-27: No contributions</title>
     </rect>
-<rect x="80" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-28: No contributions</title>
     </rect>
-<rect x="80" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-29: No contributions</title>
     </rect>
-<rect x="80" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-30: No contributions</title>
     </rect>
-<rect x="80" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="68" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-05-31: No contributions</title>
     </rect>
-<rect x="92" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-01: No contributions</title>
     </rect>
-<rect x="92" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-02: No contributions</title>
     </rect>
-<rect x="92" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-03: No contributions</title>
     </rect>
-<rect x="92" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-04: No contributions</title>
     </rect>
-<rect x="92" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-05: No contributions</title>
     </rect>
-<rect x="92" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-06: No contributions</title>
     </rect>
-<rect x="92" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="80" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-07: No contributions</title>
     </rect>
-<rect x="104" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-08: No contributions</title>
     </rect>
-<rect x="104" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-09: No contributions</title>
     </rect>
-<rect x="104" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-10: No contributions</title>
     </rect>
-<rect x="104" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-11: No contributions</title>
     </rect>
-<rect x="104" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-12: No contributions</title>
     </rect>
-<rect x="104" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-13: No contributions</title>
     </rect>
-<rect x="104" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="92" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-14: No contributions</title>
     </rect>
-<rect x="116" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-15: No contributions</title>
     </rect>
-<rect x="116" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-16: No contributions</title>
     </rect>
-<rect x="116" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-17: No contributions</title>
     </rect>
-<rect x="116" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-18: No contributions</title>
     </rect>
-<rect x="116" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-19: No contributions</title>
     </rect>
-<rect x="116" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-20: No contributions</title>
     </rect>
-<rect x="116" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="104" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-21: No contributions</title>
     </rect>
-<rect x="128" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-22: No contributions</title>
     </rect>
-<rect x="128" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-23: No contributions</title>
     </rect>
-<rect x="128" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-24: No contributions</title>
     </rect>
-<rect x="128" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-25: No contributions</title>
     </rect>
-<rect x="128" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-26: No contributions</title>
     </rect>
-<rect x="128" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-27: No contributions</title>
     </rect>
-<rect x="128" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="116" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-28: No contributions</title>
     </rect>
-<rect x="140" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="128" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-29: No contributions</title>
     </rect>
-<rect x="140" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="128" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-06-30: No contributions</title>
     </rect>
-<rect x="140" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="128" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-01: No contributions</title>
     </rect>
-<rect x="140" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="128" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-02: No contributions</title>
     </rect>
-<rect x="140" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="128" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-03: No contributions</title>
     </rect>
-<rect x="140" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="128" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-04: No contributions</title>
     </rect>
-<rect x="140" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="128" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-07-05: 1 GitHub</title>
     </rect>
-<rect x="152" y="35" width="10" height="10" fill="#30a14e" rx="2" ry="2">
+<rect x="140" y="35" width="10" height="10" fill="#30a14e" rx="2" ry="2">
       <title>2025-07-06: 7 GitHub</title>
     </rect>
-<rect x="152" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="140" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-07-07: 2 GitHub</title>
     </rect>
-<rect x="152" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="140" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-07-08: 4 GitHub</title>
     </rect>
-<rect x="152" y="71" width="10" height="10" fill="#30a14e" rx="2" ry="2">
+<rect x="140" y="71" width="10" height="10" fill="#30a14e" rx="2" ry="2">
       <title>2025-07-09: 7 GitHub</title>
     </rect>
-<rect x="152" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="140" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-10: No contributions</title>
     </rect>
-<rect x="152" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="140" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-11: No contributions</title>
     </rect>
-<rect x="152" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="140" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-12: No contributions</title>
     </rect>
-<rect x="164" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-13: No contributions</title>
     </rect>
-<rect x="164" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-14: No contributions</title>
     </rect>
-<rect x="164" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-15: No contributions</title>
     </rect>
-<rect x="164" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-16: No contributions</title>
     </rect>
-<rect x="164" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-17: No contributions</title>
     </rect>
-<rect x="164" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-18: No contributions</title>
     </rect>
-<rect x="164" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="152" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-19: No contributions</title>
     </rect>
-<rect x="176" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="164" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-20: No contributions</title>
     </rect>
-<rect x="176" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="164" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-21: No contributions</title>
     </rect>
-<rect x="176" y="59" width="10" height="10" fill="#c2c2f0" rx="2" ry="2">
+<rect x="164" y="59" width="10" height="10" fill="#c2c2f0" rx="2" ry="2">
       <title>2025-07-22: 2 GitHub 1 GitLab</title>
     </rect>
-<rect x="176" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="164" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-07-23: 2 GitLab</title>
     </rect>
-<rect x="176" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="164" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-07-24: 4 GitHub</title>
     </rect>
-<rect x="176" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="164" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-07-25: 4 GitHub</title>
     </rect>
-<rect x="176" y="107" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="164" y="107" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-07-26: 3 GitLab</title>
     </rect>
-<rect x="188" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="176" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-27: No contributions</title>
     </rect>
-<rect x="188" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="176" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-28: No contributions</title>
     </rect>
-<rect x="188" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="176" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-07-29: 1 GitLab</title>
     </rect>
-<rect x="188" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="176" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2025-07-30: 10 GitLab</title>
     </rect>
-<rect x="188" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="176" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-07-31: No contributions</title>
     </rect>
-<rect x="188" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="176" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-01: No contributions</title>
     </rect>
-<rect x="188" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="176" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-02: No contributions</title>
     </rect>
-<rect x="200" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="188" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-03: No contributions</title>
     </rect>
-<rect x="200" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="188" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-04: No contributions</title>
     </rect>
-<rect x="200" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="188" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-08-05: 2 GitHub</title>
     </rect>
-<rect x="200" y="71" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
+<rect x="188" y="71" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
       <title>2025-08-06: 2 GitHub 13 GitLab</title>
     </rect>
-<rect x="200" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="188" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-07: No contributions</title>
     </rect>
-<rect x="200" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="188" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-08: No contributions</title>
     </rect>
-<rect x="200" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="188" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-09: No contributions</title>
     </rect>
-<rect x="212" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="200" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-10: No contributions</title>
     </rect>
-<rect x="212" y="47" width="10" height="10" fill="#6464db" rx="2" ry="2">
+<rect x="200" y="47" width="10" height="10" fill="#6464db" rx="2" ry="2">
       <title>2025-08-11: 6 GitHub 2 GitLab</title>
     </rect>
-<rect x="212" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="200" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-12: No contributions</title>
     </rect>
-<rect x="212" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="200" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-13: No contributions</title>
     </rect>
-<rect x="212" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="200" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-14: No contributions</title>
     </rect>
-<rect x="212" y="95" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="200" y="95" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-08-15: 5 GitLab</title>
     </rect>
-<rect x="212" y="107" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
+<rect x="200" y="107" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
       <title>2025-08-16: 5 GitHub 16 GitLab</title>
     </rect>
-<rect x="224" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="212" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-17: No contributions</title>
     </rect>
-<rect x="224" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="212" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-08-18: 1 GitHub</title>
     </rect>
-<rect x="224" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="212" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-19: No contributions</title>
     </rect>
-<rect x="224" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="212" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-08-20: 6 GitLab</title>
     </rect>
-<rect x="224" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="212" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-08-21: 2 GitHub</title>
     </rect>
-<rect x="224" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="212" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-08-22: 5 GitHub</title>
     </rect>
-<rect x="224" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="212" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-08-23: 3 GitHub</title>
     </rect>
-<rect x="236" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="224" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-24: No contributions</title>
     </rect>
-<rect x="236" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="224" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-25: No contributions</title>
     </rect>
-<rect x="236" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="224" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-26: No contributions</title>
     </rect>
-<rect x="236" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="224" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2025-08-27: 20 GitLab</title>
     </rect>
-<rect x="236" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="224" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-28: No contributions</title>
     </rect>
-<rect x="236" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="224" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-29: No contributions</title>
     </rect>
-<rect x="236" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="224" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-30: No contributions</title>
     </rect>
-<rect x="248" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-31: No contributions</title>
     </rect>
-<rect x="248" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-01: No contributions</title>
     </rect>
-<rect x="248" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-02: No contributions</title>
     </rect>
-<rect x="248" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-03: No contributions</title>
     </rect>
-<rect x="248" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-04: No contributions</title>
     </rect>
-<rect x="248" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-05: No contributions</title>
     </rect>
-<rect x="248" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="236" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-06: No contributions</title>
     </rect>
-<rect x="260" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-07: No contributions</title>
     </rect>
-<rect x="260" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-08: No contributions</title>
     </rect>
-<rect x="260" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-09: No contributions</title>
     </rect>
-<rect x="260" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-10: No contributions</title>
     </rect>
-<rect x="260" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-11: No contributions</title>
     </rect>
-<rect x="260" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-12: No contributions</title>
     </rect>
-<rect x="260" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="248" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-13: No contributions</title>
     </rect>
-<rect x="272" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-14: No contributions</title>
     </rect>
-<rect x="272" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-15: No contributions</title>
     </rect>
-<rect x="272" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-16: No contributions</title>
     </rect>
-<rect x="272" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-17: No contributions</title>
     </rect>
-<rect x="272" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-18: No contributions</title>
     </rect>
-<rect x="272" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-19: No contributions</title>
     </rect>
-<rect x="272" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="260" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-20: No contributions</title>
     </rect>
-<rect x="284" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="272" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-09-21: 5 GitHub</title>
     </rect>
-<rect x="284" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="272" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-22: No contributions</title>
     </rect>
-<rect x="284" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="272" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-23: No contributions</title>
     </rect>
-<rect x="284" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="272" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2025-09-24: 7 GitLab</title>
     </rect>
-<rect x="284" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="272" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-25: No contributions</title>
     </rect>
-<rect x="284" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="272" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-26: No contributions</title>
     </rect>
-<rect x="284" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="272" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-27: No contributions</title>
     </rect>
-<rect x="296" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="284" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-28: No contributions</title>
     </rect>
-<rect x="296" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="284" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-09-29: No contributions</title>
     </rect>
-<rect x="296" y="59" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="284" y="59" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2025-09-30: 8 GitLab</title>
     </rect>
-<rect x="296" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="284" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2025-10-01: 7 GitLab</title>
     </rect>
-<rect x="296" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="284" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-02: No contributions</title>
     </rect>
-<rect x="296" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="284" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-03: No contributions</title>
     </rect>
-<rect x="296" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="284" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-04: No contributions</title>
     </rect>
-<rect x="308" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="296" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-05: No contributions</title>
     </rect>
-<rect x="308" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="296" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-06: No contributions</title>
     </rect>
-<rect x="308" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="296" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-07: No contributions</title>
     </rect>
-<rect x="308" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="296" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-10-08: 3 GitLab</title>
     </rect>
-<rect x="308" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="296" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-09: No contributions</title>
     </rect>
-<rect x="308" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="296" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-10: No contributions</title>
     </rect>
-<rect x="308" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="296" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-11: No contributions</title>
     </rect>
-<rect x="320" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="308" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-12: No contributions</title>
     </rect>
-<rect x="320" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="308" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-13: No contributions</title>
     </rect>
-<rect x="320" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="308" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-14: No contributions</title>
     </rect>
-<rect x="320" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="308" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-10-15: 4 GitLab</title>
     </rect>
-<rect x="320" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="308" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-16: No contributions</title>
     </rect>
-<rect x="320" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="308" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-17: No contributions</title>
     </rect>
-<rect x="320" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="308" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-18: No contributions</title>
     </rect>
-<rect x="332" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="320" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-19: No contributions</title>
     </rect>
-<rect x="332" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="320" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-10-20: 2 GitLab</title>
     </rect>
-<rect x="332" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="320" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-21: No contributions</title>
     </rect>
-<rect x="332" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="320" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-22: No contributions</title>
     </rect>
-<rect x="332" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="320" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-23: No contributions</title>
     </rect>
-<rect x="332" y="95" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="320" y="95" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-10-24: 2 GitLab</title>
     </rect>
-<rect x="332" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="320" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-25: No contributions</title>
     </rect>
-<rect x="344" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="332" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2025-10-26: 9 GitLab</title>
     </rect>
-<rect x="344" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="332" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-10-27: 1 GitLab</title>
     </rect>
-<rect x="344" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="332" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-28: No contributions</title>
     </rect>
-<rect x="344" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="332" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-10-29: 1 GitLab</title>
     </rect>
-<rect x="344" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="332" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-10-30: No contributions</title>
     </rect>
-<rect x="344" y="95" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="332" y="95" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-10-31: 4 GitLab</title>
     </rect>
-<rect x="344" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="332" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-01: No contributions</title>
     </rect>
-<rect x="356" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="344" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-02: No contributions</title>
     </rect>
-<rect x="356" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="344" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-11-03: 1 GitLab</title>
     </rect>
-<rect x="356" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="344" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-04: No contributions</title>
     </rect>
-<rect x="356" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="344" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-05: No contributions</title>
     </rect>
-<rect x="356" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="344" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-06: No contributions</title>
     </rect>
-<rect x="356" y="95" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="344" y="95" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2025-11-07: 11 GitLab</title>
     </rect>
-<rect x="356" y="107" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="344" y="107" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2025-11-08: 15 GitLab</title>
     </rect>
-<rect x="368" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="356" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2025-11-09: 9 GitLab</title>
     </rect>
-<rect x="368" y="47" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="356" y="47" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-11-10: 5 GitLab</title>
     </rect>
-<rect x="368" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="356" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-11-11: 1 GitLab</title>
     </rect>
-<rect x="368" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="356" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-12: No contributions</title>
     </rect>
-<rect x="368" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="356" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-13: No contributions</title>
     </rect>
-<rect x="368" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="356" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-14: No contributions</title>
     </rect>
-<rect x="368" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="356" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-15: No contributions</title>
     </rect>
-<rect x="380" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-16: No contributions</title>
     </rect>
-<rect x="380" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-17: No contributions</title>
     </rect>
-<rect x="380" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-18: No contributions</title>
     </rect>
-<rect x="380" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-19: No contributions</title>
     </rect>
-<rect x="380" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-20: No contributions</title>
     </rect>
-<rect x="380" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-21: No contributions</title>
     </rect>
-<rect x="380" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="368" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-22: No contributions</title>
     </rect>
-<rect x="392" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="380" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-23: No contributions</title>
     </rect>
-<rect x="392" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="380" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-24: No contributions</title>
     </rect>
-<rect x="392" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="380" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-11-25: 2 GitLab</title>
     </rect>
-<rect x="392" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="380" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2025-11-26: 7 GitLab</title>
     </rect>
-<rect x="392" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="380" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-27: No contributions</title>
     </rect>
-<rect x="392" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="380" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-28: No contributions</title>
     </rect>
-<rect x="392" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="380" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-29: No contributions</title>
     </rect>
-<rect x="404" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="392" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-11-30: No contributions</title>
     </rect>
-<rect x="404" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="392" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-01: No contributions</title>
     </rect>
-<rect x="404" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="392" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-02: No contributions</title>
     </rect>
-<rect x="404" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="392" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2025-12-03: 2 GitLab</title>
     </rect>
-<rect x="404" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="392" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-04: No contributions</title>
     </rect>
-<rect x="404" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="392" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-05: No contributions</title>
     </rect>
-<rect x="404" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="392" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-06: No contributions</title>
     </rect>
-<rect x="416" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-07: No contributions</title>
     </rect>
-<rect x="416" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-08: No contributions</title>
     </rect>
-<rect x="416" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-09: No contributions</title>
     </rect>
-<rect x="416" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-10: No contributions</title>
     </rect>
-<rect x="416" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-11: No contributions</title>
     </rect>
-<rect x="416" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-12: No contributions</title>
     </rect>
-<rect x="416" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="404" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-13: No contributions</title>
     </rect>
-<rect x="428" y="35" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="416" y="35" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-12-14: 4 GitLab</title>
     </rect>
-<rect x="428" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="416" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-15: No contributions</title>
     </rect>
-<rect x="428" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="416" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-16: No contributions</title>
     </rect>
-<rect x="428" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="416" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-17: No contributions</title>
     </rect>
-<rect x="428" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="416" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-18: No contributions</title>
     </rect>
-<rect x="428" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="416" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-19: No contributions</title>
     </rect>
-<rect x="428" y="107" width="10" height="10" fill="#c2c2f0" rx="2" ry="2">
+<rect x="416" y="107" width="10" height="10" fill="#c2c2f0" rx="2" ry="2">
       <title>2025-12-20: 1 GitHub 2 GitLab</title>
     </rect>
-<rect x="440" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2">
+<rect x="428" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-12-21: 5 GitHub</title>
     </rect>
-<rect x="440" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="428" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-22: No contributions</title>
     </rect>
-<rect x="440" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="428" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-23: No contributions</title>
     </rect>
-<rect x="440" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="428" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-24: No contributions</title>
     </rect>
-<rect x="440" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="428" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-12-25: 2 GitHub</title>
     </rect>
-<rect x="440" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="428" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2025-12-26: 1 GitHub</title>
     </rect>
-<rect x="440" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="428" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-27: No contributions</title>
     </rect>
-<rect x="452" y="35" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="440" y="35" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-12-28: 5 GitLab</title>
     </rect>
-<rect x="452" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="440" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-29: No contributions</title>
     </rect>
-<rect x="452" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="440" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-30: No contributions</title>
     </rect>
-<rect x="452" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="440" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-12-31: No contributions</title>
     </rect>
-<rect x="452" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="440" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-01: No contributions</title>
     </rect>
-<rect x="452" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="440" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-02: No contributions</title>
     </rect>
-<rect x="452" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="440" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-03: No contributions</title>
     </rect>
-<rect x="464" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="452" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-04: No contributions</title>
     </rect>
-<rect x="464" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="452" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-05: No contributions</title>
     </rect>
-<rect x="464" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="452" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-06: No contributions</title>
     </rect>
-<rect x="464" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="452" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-01-07: 11 GitLab</title>
     </rect>
-<rect x="464" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="452" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-08: No contributions</title>
     </rect>
-<rect x="464" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="452" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-09: No contributions</title>
     </rect>
-<rect x="464" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="452" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-10: No contributions</title>
     </rect>
-<rect x="476" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="464" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-11: No contributions</title>
     </rect>
-<rect x="476" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="464" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-01-12: 3 GitLab</title>
     </rect>
-<rect x="476" y="59" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="464" y="59" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-01-13: 15 GitLab</title>
     </rect>
-<rect x="476" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="464" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-14: No contributions</title>
     </rect>
-<rect x="476" y="83" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="464" y="83" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-01-15: 30 GitLab</title>
     </rect>
-<rect x="476" y="95" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="464" y="95" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-01-16: 20 GitLab</title>
     </rect>
-<rect x="476" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="464" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-17: No contributions</title>
     </rect>
-<rect x="488" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="476" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-18: No contributions</title>
     </rect>
-<rect x="488" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="476" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-19: No contributions</title>
     </rect>
-<rect x="488" y="59" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="476" y="59" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-01-20: 11 GitLab</title>
     </rect>
-<rect x="488" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="476" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-01-21: 3 GitLab</title>
     </rect>
-<rect x="488" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="476" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-22: No contributions</title>
     </rect>
-<rect x="488" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="476" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-23: No contributions</title>
     </rect>
-<rect x="488" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="476" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-24: No contributions</title>
     </rect>
-<rect x="500" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-25: No contributions</title>
     </rect>
-<rect x="500" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-26: No contributions</title>
     </rect>
-<rect x="500" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-27: No contributions</title>
     </rect>
-<rect x="500" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-28: No contributions</title>
     </rect>
-<rect x="500" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-29: No contributions</title>
     </rect>
-<rect x="500" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-30: No contributions</title>
     </rect>
-<rect x="500" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="488" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-31: No contributions</title>
     </rect>
-<rect x="512" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-01: No contributions</title>
     </rect>
-<rect x="512" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-02: No contributions</title>
     </rect>
-<rect x="512" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-03: No contributions</title>
     </rect>
-<rect x="512" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-04: No contributions</title>
     </rect>
-<rect x="512" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-05: No contributions</title>
     </rect>
-<rect x="512" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-06: No contributions</title>
     </rect>
-<rect x="512" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="500" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-07: No contributions</title>
     </rect>
-<rect x="524" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="512" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-08: No contributions</title>
     </rect>
-<rect x="524" y="47" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
+<rect x="512" y="47" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
       <title>2026-02-09: 8 GitHub 2 GitLab</title>
     </rect>
-<rect x="524" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="512" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-10: No contributions</title>
     </rect>
-<rect x="524" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="512" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-02-11: 1 GitLab</title>
     </rect>
-<rect x="524" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="512" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-02-12: 3 GitHub</title>
     </rect>
-<rect x="524" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="512" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-02-13: 1 GitHub</title>
     </rect>
-<rect x="524" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="512" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-14: No contributions</title>
     </rect>
-<rect x="536" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="524" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-15: No contributions</title>
     </rect>
-<rect x="536" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="524" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-16: No contributions</title>
     </rect>
-<rect x="536" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="524" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-02-17: 2 GitLab</title>
     </rect>
-<rect x="536" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="524" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-02-18: 8 GitLab</title>
     </rect>
-<rect x="536" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="524" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-19: No contributions</title>
     </rect>
-<rect x="536" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="524" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-02-20: 1 GitHub</title>
     </rect>
-<rect x="536" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="524" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-21: No contributions</title>
     </rect>
-<rect x="548" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-22: No contributions</title>
     </rect>
-<rect x="548" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-23: No contributions</title>
     </rect>
-<rect x="548" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-24: No contributions</title>
     </rect>
-<rect x="548" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-25: No contributions</title>
     </rect>
-<rect x="548" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-26: No contributions</title>
     </rect>
-<rect x="548" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-27: No contributions</title>
     </rect>
-<rect x="548" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="536" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-28: No contributions</title>
     </rect>
-<rect x="560" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="548" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-01: No contributions</title>
     </rect>
-<rect x="560" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="548" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-02: No contributions</title>
     </rect>
-<rect x="560" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="548" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-03: No contributions</title>
     </rect>
-<rect x="560" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="548" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-03-04: 7 GitLab</title>
     </rect>
-<rect x="560" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="548" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-05: No contributions</title>
     </rect>
-<rect x="560" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="548" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-06: No contributions</title>
     </rect>
-<rect x="560" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="548" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-07: No contributions</title>
     </rect>
-<rect x="572" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="560" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-08: No contributions</title>
     </rect>
-<rect x="572" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="560" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-09: No contributions</title>
     </rect>
-<rect x="572" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="560" y="59" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-03-10: 3 GitLab</title>
     </rect>
-<rect x="572" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="560" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2026-03-11: 5 GitLab</title>
     </rect>
-<rect x="572" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="560" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-12: No contributions</title>
     </rect>
-<rect x="572" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="560" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-13: No contributions</title>
     </rect>
-<rect x="572" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="560" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-14: No contributions</title>
     </rect>
-<rect x="584" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="572" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-15: No contributions</title>
     </rect>
-<rect x="584" y="47" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="572" y="47" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2026-03-16: 5 GitLab</title>
     </rect>
-<rect x="584" y="59" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="572" y="59" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-03-17: 8 GitLab</title>
     </rect>
-<rect x="584" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="572" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-03-18: 7 GitLab</title>
     </rect>
-<rect x="584" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="572" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-19: No contributions</title>
     </rect>
-<rect x="584" y="95" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="572" y="95" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-03-20: 1 GitLab</title>
     </rect>
-<rect x="584" y="107" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="572" y="107" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-03-21: 1 GitLab</title>
     </rect>
-<rect x="596" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="584" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-22: No contributions</title>
     </rect>
-<rect x="596" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="584" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-03-23: 1 GitLab</title>
     </rect>
-<rect x="596" y="59" width="10" height="10" fill="#9393e6" rx="2" ry="2">
+<rect x="584" y="59" width="10" height="10" fill="#9393e6" rx="2" ry="2">
       <title>2026-03-24: 3 GitHub 2 GitLab</title>
     </rect>
-<rect x="596" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="584" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-25: No contributions</title>
     </rect>
-<rect x="596" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2026-03-26: 2 GitHub</title>
+<rect x="584" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2026-03-26: No contributions</title>
     </rect>
-<rect x="596" y="95" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
+<rect x="584" y="95" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
       <title>2026-03-27: 1 GitHub 9 GitLab</title>
     </rect>
-<rect x="596" y="107" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="584" y="107" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-03-28: 1 GitLab</title>
     </rect>
-<rect x="608" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2">
+<rect x="596" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2">
       <title>2026-03-29: 23 GitHub</title>
     </rect>
-<rect x="608" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2">
+<rect x="596" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2">
       <title>2026-03-30: 19 GitHub</title>
     </rect>
-<rect x="608" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="596" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-03-31: No contributions</title>
     </rect>
-<rect x="608" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="596" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-01: No contributions</title>
     </rect>
-<rect x="608" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="596" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-02: No contributions</title>
     </rect>
-<rect x="608" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="596" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-03: No contributions</title>
     </rect>
-<rect x="608" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="596" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-04: No contributions</title>
     </rect>
-<rect x="620" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="608" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-04-05: 1 GitHub</title>
     </rect>
-<rect x="620" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="608" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-06: No contributions</title>
     </rect>
-<rect x="620" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="608" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-07: No contributions</title>
     </rect>
-<rect x="620" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2">
+<rect x="608" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2">
       <title>2026-04-08: 10 GitHub</title>
     </rect>
-<rect x="620" y="83" width="10" height="10" fill="#30a14e" rx="2" ry="2">
+<rect x="608" y="83" width="10" height="10" fill="#30a14e" rx="2" ry="2">
       <title>2026-04-09: 9 GitHub</title>
     </rect>
-<rect x="620" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="608" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-10: No contributions</title>
     </rect>
-<rect x="620" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="608" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-11: No contributions</title>
     </rect>
-<rect x="632" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+<rect x="620" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-04-12: 1 GitHub</title>
     </rect>
-<rect x="632" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="620" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-13: No contributions</title>
     </rect>
-<rect x="632" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+<rect x="620" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-04-14: No contributions</title>
     </rect>
-<rect x="632" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="620" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-04-15: 11 GitLab</title>
     </rect>
-<rect x="632" y="83" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="620" y="83" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-04-16: 7 GitLab</title>
     </rect>
-<rect x="632" y="95" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="620" y="95" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-04-17: 8 GitLab</title>
     </rect>
-<rect x="632" y="107" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="620" y="107" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2026-04-18: 5 GitLab</title>
     </rect>
-<rect x="644" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
+<rect x="632" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-04-19: 8 GitLab</title>
     </rect>
-<rect x="644" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
+<rect x="632" y="47" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-04-20: 3 GitLab</title>
     </rect>
-<rect x="644" y="59" width="10" height="10" fill="#ffb380" rx="2" ry="2">
+<rect x="632" y="59" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2026-04-21: 4 GitLab</title>
     </rect>
-<rect x="644" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="632" y="71" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-04-22: 22 GitLab</title>
     </rect>
-<rect x="644" y="83" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
+<rect x="632" y="83" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
       <title>2026-04-23: 3 GitHub 62 GitLab</title>
     </rect>
-<rect x="644" y="95" width="10" height="10" fill="#e65100" rx="2" ry="2">
+<rect x="632" y="95" width="10" height="10" fill="#e65100" rx="2" ry="2">
       <title>2026-04-24: 26 GitLab</title>
     </rect>
-<rect x="644" y="107" width="10" height="10" fill="#216e39" rx="2" ry="2">
-      <title>2026-04-25: 15 GitHub</title>
+<rect x="632" y="107" width="10" height="10" fill="#3a3ad1" rx="2" ry="2">
+      <title>2026-04-25: 31 GitHub 5 GitLab</title>
+    </rect>
+<rect x="644" y="35" width="10" height="10" fill="#30a14e" rx="2" ry="2">
+      <title>2026-04-26: 9 GitHub</title>
     </rect>
 
   
