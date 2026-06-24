@@ -662,11 +662,11 @@
 <rect x="380" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-22: No contributions</title>
     </rect>
-<rect x="380" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2026-01-23: No contributions</title>
+<rect x="380" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2">
+      <title>2026-01-23: 12 GitHub</title>
     </rect>
-<rect x="380" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2026-01-24: No contributions</title>
+<rect x="380" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+      <title>2026-01-24: 1 GitHub</title>
     </rect>
 <rect x="392" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-01-25: No contributions</title>
@@ -722,14 +722,14 @@
 <rect x="416" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
       <title>2026-02-11: 1 GitLab</title>
     </rect>
-<rect x="416" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2026-02-12: 3 GitHub</title>
+<rect x="416" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2">
+      <title>2026-02-12: 13 GitHub</title>
     </rect>
-<rect x="416" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2026-02-13: 1 GitHub</title>
+<rect x="416" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2">
+      <title>2026-02-13: 16 GitHub</title>
     </rect>
-<rect x="416" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2026-02-14: No contributions</title>
+<rect x="416" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+      <title>2026-02-14: 1 GitHub</title>
     </rect>
 <rect x="428" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-15: No contributions</title>
@@ -743,11 +743,11 @@
 <rect x="428" y="71" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
       <title>2026-02-18: 8 GitLab</title>
     </rect>
-<rect x="428" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2026-02-19: No contributions</title>
+<rect x="428" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2">
+      <title>2026-02-19: 10 GitHub</title>
     </rect>
 <rect x="428" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
-      <title>2026-02-20: 1 GitHub</title>
+      <title>2026-02-20: 3 GitHub</title>
     </rect>
 <rect x="428" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-02-21: No contributions</title>
@@ -1115,8 +1115,11 @@
 <rect x="644" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-06-22: 2 GitHub</title>
     </rect>
-<rect x="644" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2026-06-23: No contributions</title>
+<rect x="644" y="59" width="10" height="10" fill="#216e39" rx="2" ry="2">
+      <title>2026-06-23: 27 GitHub</title>
+    </rect>
+<rect x="644" y="71" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
+      <title>2026-06-24: 1 GitHub</title>
     </rect>
 
   
