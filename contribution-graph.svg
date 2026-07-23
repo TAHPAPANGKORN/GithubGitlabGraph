@@ -26,8 +26,8 @@
 <rect x="20" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-07-22: 4 GitHub</title>
     </rect>
-<rect x="20" y="71" width="10" height="10" fill="#ffdfc4" rx="2" ry="2">
-      <title>2025-07-23: 2 GitLab</title>
+<rect x="20" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2025-07-23: No contributions</title>
     </rect>
 <rect x="20" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2">
       <title>2025-07-24: 13 GitHub</title>
@@ -1118,8 +1118,11 @@
 <rect x="644" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2">
       <title>2026-07-21: 1 GitHub</title>
     </rect>
-<rect x="644" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
-      <title>2026-07-22: No contributions</title>
+<rect x="644" y="71" width="10" height="10" fill="#9393e6" rx="2" ry="2">
+      <title>2026-07-22: 3 GitHub 2 GitLab</title>
+    </rect>
+<rect x="644" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2026-07-23: No contributions</title>
     </rect>
 
   
