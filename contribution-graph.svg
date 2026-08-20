@@ -26,8 +26,8 @@
 <rect x="20" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2025-08-19: No contributions</title>
     </rect>
-<rect x="20" y="71" width="10" height="10" fill="#ffb380" rx="2" ry="2">
-      <title>2025-08-20: 6 GitLab</title>
+<rect x="20" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2025-08-20: No contributions</title>
     </rect>
 <rect x="20" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2">
       <title>2025-08-21: 4 GitHub</title>
@@ -1120,6 +1120,9 @@
     </rect>
 <rect x="644" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-08-19: No contributions</title>
+    </rect>
+<rect x="644" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2026-08-20: No contributions</title>
     </rect>
 
   
