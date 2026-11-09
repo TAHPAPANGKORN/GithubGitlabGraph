@@ -17,8 +17,8 @@
 <text x="572" y="30" font-size="9" font-family="sans-serif" fill="#767676">Oct</text>
 <text x="632" y="30" font-size="9" font-family="sans-serif" fill="#767676">Nov</text>
 
-  <rect x="20" y="35" width="10" height="10" fill="#ff8c42" rx="2" ry="2">
-      <title>2025-11-09: 9 GitLab</title>
+  <rect x="20" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2025-11-09: No contributions</title>
     </rect>
 <rect x="20" y="47" width="10" height="10" fill="#ffb380" rx="2" ry="2">
       <title>2025-11-10: 5 GitLab</title>
@@ -1111,6 +1111,9 @@
     </rect>
 <rect x="644" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
       <title>2026-11-08: No contributions</title>
+    </rect>
+<rect x="644" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2">
+      <title>2026-11-09: No contributions</title>
     </rect>
 
   
